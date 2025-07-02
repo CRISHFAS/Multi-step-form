@@ -9,7 +9,7 @@ Este proyecto de React muestra un formulario de varios pasos utilizando React Ho
 - Clona el repositorio:
 
 ```sh
-git clone https://github.com/CRISHFAS/Multi-step-form.git
+git clone git@github.com:CRISHFAS/Multi-step-form.git
 cd Multi-step-form
 ```
 
@@ -25,7 +25,7 @@ npm install
 npm run build
 ```
 
-- Ejecución del proyecto:
+- Ejecute del proyecto:
 
 ```sh
 npm run dev
